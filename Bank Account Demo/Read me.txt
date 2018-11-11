@@ -1,0 +1,6 @@
+Open Source @MichaelABrown
+
+
+This code demonstrates my understanding of object oriented programming in Java. It uses both super and sub classes and implements a interface. 
+It also has error catching and file input and output. The program is event driven as well. Feel free to copy the code and modify the project for your open source needs.
+Unfornately one of the requirements was to have the classes in the main file. Feel free to seperate  them for readability. 
