@@ -1,0 +1,6 @@
+Arduino Pi is a project that won Best in Cyber Security at HackUMBC 
+It is open source and viewable on Git hub here: https://github.com/hola-there/arduinoPi
+
+@MichaelABrown
+ Helped develop it with 2 other teamates. I assisted in the hardware side as well and front, backend design and coding.
+ 
