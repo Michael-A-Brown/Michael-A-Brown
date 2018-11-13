@@ -1,4 +1,4 @@
-Arduino Pi is a project that won Best in Cyber Security at HackUMBC 
+Sentinel on Arduino Pi is a project that won Best in Cyber Security at HackUMBC 
 It is open source and viewable on Git hub here: https://github.com/hola-there/arduinoPi
 
 @MichaelABrown
