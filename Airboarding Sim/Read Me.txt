@@ -1,0 +1,13 @@
+#For review purposes only 
+#The ADT's used in this project were not written by me and thefore cannot be provided. This code will not compile
+#Source code credit @MichaelABrown
+
+
+This code runs a simulation of a passengers boarding a Airplane. It uses a  priority que and implements several aspects of
+Object Oriented Programming, Data Structures, and File Use. 
+
+The Priority Que is determined by the character rank
+
+-H (child or elderly)
+-E (first classs)
+-G (general boarding
